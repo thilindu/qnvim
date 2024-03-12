@@ -29,3 +29,4 @@ find_package(QtCreator REQUIRED COMPONENTS Core)
 find_package(Qt6 REQUIRED COMPONENTS Widgets Network)
 
 add_subdirectory(src)
+
